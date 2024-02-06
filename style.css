@@ -1,0 +1,34 @@
+.thr{
+    background: rgb(146, 218, 39);
+    width: 105%;
+    height: 300px;
+    padding: 5px;
+    margin: 10px;
+}
+.pjk{
+    background: blue;
+    border: none;
+    padding: 10px;
+}
+.pqr{
+    text-align: center;
+}
+.rhj{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+/* .five{
+    font-size: 50px;
+}
+.six{
+    font-size: 50px; */
+/* } */
+h1{
+    font-family: sans-serif;
+}
+.lolo{
+    font-size: 70px;
+}

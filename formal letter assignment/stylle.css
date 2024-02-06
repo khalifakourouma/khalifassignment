@@ -1,0 +1,94 @@
+h1{
+    font-size: 16px;
+    text-align: right;
+    
+    
+}
+h2{
+    font-size: 16px;
+}
+h4{
+    font-size: 19px;
+    
+}
+h5{
+    font-size: 16px;
+    text-align: right;
+}
+h3{
+    text-indent: 55px;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 40px;
+
+    
+    filter: sepia(30%);
+}
+/* ul{
+    background: red;
+    width: fit-content;
+    list-style-type:alpha;
+}
+ol{
+    background: blue;
+    width: fit-content;
+    list-style-type: disc;
+}
+a:link{
+    background: blue;
+    color: purple;
+    padding: 10px;
+    margin: 20px 10px;
+}
+a:hover{
+    background: yellow;
+    border: 1px groove red;
+}
+a:active{
+    background: green;
+    color: black;
+}
+a:visited{
+    
+} */
+table{
+    border: 1px solid blue;
+    border-spacing: 10px;
+    border-collapse: no-collapse;
+}
+td{
+    border: 1px solid blue;
+    padding: 10px;
+}
+.hate{
+    width: 300px;
+    height: 300px;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    }
+    .water{
+        width: 300px;
+        height: 300px;
+        position: fixed;
+        bottom: 0px;
+        left: 0px;
+    }
+    .money{
+        width: 300px;
+        height: 300px;
+        position: fixed;
+        top: 0px;
+        left: 0px;
+    }
+    .book{
+        width: 300px;
+        height: 300px;
+        position: fixed;
+        top: -0px;
+        right: 0px;
+        
+    }
+
